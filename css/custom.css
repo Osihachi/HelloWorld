@@ -1,0 +1,25 @@
+@media (max-width: 1650px) {
+    .content-box {
+        max-width: 1330px;
+    }
+}
+.content-w{
+    background: #d7d7d7 !important;
+}
+.single-naps-tab{
+    pointer-events: none;
+    background-color: #f1f1f1;
+}
+.single-naps-tab .value{
+    color: #aaa
+}
+fieldset{
+    margin-top: 0 !important;
+}
+.small-form{
+    max-width: 600px;
+}
+.dashed-border{
+    border: dashed 1px #ffffff;
+    background: #d7d7d7
+}
